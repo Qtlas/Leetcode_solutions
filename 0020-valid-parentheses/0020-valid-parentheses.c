@@ -57,7 +57,7 @@ bool isValid(char* s) {
     int i = 0;
     while (s[i] != '\0' && !pile_full(pile)) {
         if (is_ouvrante(s[i])) empiler(pile, s[i]);
-        else if (pile_empty(pile) || pile_full(pile) || fermante(depiler(pile)) != s[i]) return false;
+        else if (pile_empty(pile) || fermante(depiler(pile)) != s[i]) return false;
         i++;
     }
     return pile_empty(pile);
