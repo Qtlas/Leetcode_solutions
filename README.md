@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Qtlas/Leetcode_solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Qtlas/Leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Qtlas/Leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0118-pascals-triangle](https://github.com/Qtlas/Leetcode_solutions/tree/master/0118-pascals-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Qtlas/Leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/Qtlas/Leetcode_solutions/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
