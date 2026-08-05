@@ -10,10 +10,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Qtlas/Leetcode_solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Qtlas/Leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Qtlas/Leetcode_solutions/tree/master/0118-pascals-triangle) |
+| [0706-design-hashmap](https://github.com/Qtlas/Leetcode_solutions/tree/master/0706-design-hashmap) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Qtlas/Leetcode_solutions/tree/master/0001-two-sum) |
+| [0706-design-hashmap](https://github.com/Qtlas/Leetcode_solutions/tree/master/0706-design-hashmap) |
 ## Math
 |  |
 | ------- |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Qtlas/Leetcode_solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0706-design-hashmap](https://github.com/Qtlas/Leetcode_solutions/tree/master/0706-design-hashmap) |
 ## Recursion
 |  |
 | ------- |
@@ -52,8 +55,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Qtlas/Leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0706-design-hashmap](https://github.com/Qtlas/Leetcode_solutions/tree/master/0706-design-hashmap) |
 ## Queue
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Qtlas/Leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/Qtlas/Leetcode_solutions/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
