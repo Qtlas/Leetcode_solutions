@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Qtlas/Leetcode_solutions/tree/master/0001-two-sum) |
+| [0146-lru-cache](https://github.com/Qtlas/Leetcode_solutions/tree/master/0146-lru-cache) |
 | [0706-design-hashmap](https://github.com/Qtlas/Leetcode_solutions/tree/master/0706-design-hashmap) |
 ## Math
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Qtlas/Leetcode_solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0146-lru-cache](https://github.com/Qtlas/Leetcode_solutions/tree/master/0146-lru-cache) |
 | [0706-design-hashmap](https://github.com/Qtlas/Leetcode_solutions/tree/master/0706-design-hashmap) |
 ## Recursion
 |  |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Qtlas/Leetcode_solutions/tree/master/0146-lru-cache) |
 | [0232-implement-queue-using-stacks](https://github.com/Qtlas/Leetcode_solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0706-design-hashmap](https://github.com/Qtlas/Leetcode_solutions/tree/master/0706-design-hashmap) |
 ## Queue
@@ -64,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/Qtlas/Leetcode_solutions/tree/master/0706-design-hashmap) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Qtlas/Leetcode_solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
